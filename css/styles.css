@@ -275,14 +275,15 @@ button {
     height: 45px;
     position: absolute;
     display:block;
-
-    background: url("/media/ig-imgs.png");
-    background-position-x: -244px;
-    background-position-y: -107px;
-
     right: 8px;
+    overflow: hidden;
 }
 
+.stories-button img {
+    position: absolute;
+    left: -244px;
+    top: -107px;
+}
 
 
 
