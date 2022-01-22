@@ -274,6 +274,7 @@ button {
     width: 45px;
     height: 45px;
     position: absolute;
+    display:block;
 
     background: url("/media/ig-imgs.png");
     background-position-x: -244px;
